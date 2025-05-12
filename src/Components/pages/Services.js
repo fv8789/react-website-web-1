@@ -2,5 +2,5 @@ import React from 'react';
 import '../../App.css';
 
 export default function Services() {
-    return className= 'services';
+    return <h1 className= 'services'>.</h1>;
 }
